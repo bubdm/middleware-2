@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fox.Middleware", "Fox.Middleware\Fox.Middleware.csproj", "{14A23F69-DA59-4FCF-A76A-6FFA18B8ABD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fox.Middleware.Test", "Fox.Middleware.Test\Fox.Middleware.Test.csproj", "{9C2A6A4B-D4FA-416C-B78C-BD994599941A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14A23F69-DA59-4FCF-A76A-6FFA18B8ABD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A23F69-DA59-4FCF-A76A-6FFA18B8ABD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A23F69-DA59-4FCF-A76A-6FFA18B8ABD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A23F69-DA59-4FCF-A76A-6FFA18B8ABD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2A6A4B-D4FA-416C-B78C-BD994599941A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2A6A4B-D4FA-416C-B78C-BD994599941A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2A6A4B-D4FA-416C-B78C-BD994599941A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2A6A4B-D4FA-416C-B78C-BD994599941A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B0A081-7BB7-42BF-8671-AC218F4DB6A4}
+	EndGlobalSection
+EndGlobal
